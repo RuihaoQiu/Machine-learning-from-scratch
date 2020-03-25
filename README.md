@@ -11,3 +11,5 @@ Implement the most important algorithms for machine learning from scratch.
 - [Linear regression](https://github.com/RuihaoQiu/Algorithms/blob/master/LinearRegression.ipynb)  
 - [Logistic regression](https://github.com/RuihaoQiu/Algorithms/blob/master/LogisticRegression.ipynb)  
 - [Neural network](https://github.com/RuihaoQiu/Algorithms/blob/master/NeuralNetwork.ipynb)
+
+Note: the code can be better structured, will improve in the furture. 
